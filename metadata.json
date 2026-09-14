@@ -1,0 +1,6 @@
+{
+  "name": "Night Mess — Smart Meal Pass",
+  "description": "Campus night mess meal reservation, live crowd monitoring, and secure one-time QR pass entry system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
